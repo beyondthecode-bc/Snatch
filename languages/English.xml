@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+  <!-- App -->
+  <string key="app.name">Snatch</string>
+  <string key="app.quit">Quit Snatch</string>
+
+  <!-- General -->
+  <string key="general.cancel">Cancel</string>
+
+  <!-- Popover -->
+  <string key="popover.customZones">Custom Zones</string>
+  <string key="popover.addInSettings">Add in Settings...</string>
+  <string key="popover.snapZones">Snap Zones</string>
+  <string key="popover.autoTile">Auto-Tile All Windows</string>
+  <string key="popover.quit">Quit</string>
+
+  <!-- Snap Positions -->
+  <string key="snap.leftHalf">Left Half</string>
+  <string key="snap.rightHalf">Right Half</string>
+  <string key="snap.topHalf">Top Half</string>
+  <string key="snap.bottomHalf">Bottom Half</string>
+  <string key="snap.topLeftQuarter">Top Left</string>
+  <string key="snap.topRightQuarter">Top Right</string>
+  <string key="snap.bottomLeftQuarter">Bottom Left</string>
+  <string key="snap.bottomRightQuarter">Bottom Right</string>
+  <string key="snap.leftThird">Left Third</string>
+  <string key="snap.centerThird">Center Third</string>
+  <string key="snap.rightThird">Right Third</string>
+  <string key="snap.leftTwoThirds">Left Two-Thirds</string>
+  <string key="snap.rightTwoThirds">Right Two-Thirds</string>
+  <string key="snap.maximize">Maximize</string>
+  <string key="snap.center">Center</string>
+  <string key="snap.autoTile">Auto-Tile</string>
+  <string key="snap.customZone">Custom Zone</string>
+
+  <!-- Permission -->
+  <string key="permission.title">Accessibility Access Required</string>
+  <string key="permission.description">Snatch needs Accessibility permission to detect window drags and move windows into snap positions.</string>
+  <string key="permission.grant">Grant Access</string>
+  <string key="permission.openSettings">Open System Settings</string>
+  <string key="permission.banner">Accessibility not granted. Toggle off/on in Settings after rebuild.</string>
+  <string key="permission.fix">Fix</string>
+
+  <!-- Settings -->
+  <string key="settings.title">Settings</string>
+  <string key="settings.general">General</string>
+  <string key="settings.shortcuts">Shortcuts</string>
+  <string key="settings.zones">Zones</string>
+  <string key="settings.enabled">Enable Snatch</string>
+  <string key="settings.launchAtLogin">Launch at Login</string>
+  <string key="settings.snapping">Snapping</string>
+  <string key="settings.edgeSensitivity">Edge Sensitivity</string>
+  <string key="settings.snapToThirds">Snap to Thirds</string>
+  <string key="settings.appearance">Appearance</string>
+  <string key="settings.showOverlay">Show Overlay Animation</string>
+  <string key="settings.shortcutsDescription">Press a keyboard shortcut to snap the focused window.</string>
+  <string key="settings.pressShortcut">Press keys...</string>
+  <string key="settings.resetDefaults">Reset to Defaults</string>
+  <string key="settings.customZonesDescription">Define custom snap zones with precise grid positions.</string>
+  <string key="settings.noCustomZones">No Custom Zones</string>
+  <string key="settings.noCustomZonesHint">Click Add Zone to create your first custom layout.</string>
+  <string key="settings.addZone">Add Zone</string>
+  <string key="settings.snapToZone">Snap to this zone</string>
+  <string key="settings.dragToSelect">Drag on the grid to select a zone region</string>
+  <string key="settings.zoneName">Zone name</string>
+  <string key="settings.save">Save</string>
+  <string key="settings.addShortcut">Add Shortcut</string>
+
+  <!-- About -->
+  <string key="about.title">About Snatch</string>
+  <string key="about.tagline">Reliable window snapping, smart auto-tile, and custom layouts.</string>
+  <string key="about.reportIssue">Report Issue</string>
+  <string key="about.translations">Translations</string>
+  <string key="about.sponsor">Sponsor on GitHub</string>
+  <string key="about.sponsor.subtitle">Support ongoing development</string>
+  <string key="about.coffee">Buy me a coffee</string>
+  <string key="about.coffee.subtitle">One-time tip, no account needed</string>
+
+  <!-- Updates -->
+  <string key="update.check">Check for Updates</string>
+  <string key="update.checking">Checking...</string>
+  <string key="update.available">Update Available</string>
+  <string key="update.upToDate">You're up to date!</string>
+  <string key="update.download">Download</string>
+  <string key="update.install">Install Now</string>
+  <string key="update.installing">Installing...</string>
+  <string key="update.version">Version %1</string>
+</strings>
