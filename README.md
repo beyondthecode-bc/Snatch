@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Snatch" width="100%">
+  <img src="images/banner.jpg" alt="Snatch" width="100%">
 </p>
 
 <p align="center">
@@ -36,7 +36,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="images/screenshot-1.png" alt="Screenshot" width="520">
+  <img src="images/1.png" alt="Snatch Popover" width="420">
+  &nbsp;&nbsp;
+  <img src="images/2.png" alt="Snatch Settings" width="420">
 </p>
 
 ---
