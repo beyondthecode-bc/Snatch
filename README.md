@@ -51,9 +51,10 @@ The app includes a built-in update checker -- open **About** and click **Check N
 
 ## Features
 
-- **Edge Snap Zones** -- Drag any window to a screen edge or corner. A translucent overlay preview shows where the window will land. Release to snap.
+- **Multi-Monitor Support** -- Full support for multiple displays. Snap zones, hotkeys, and the menu bar grid all detect which screen your window is on and position it correctly. Works with any resolution -- FHD, QHD, 4K, 5K, 6K, and 8K displays.
+- **Edge Snap Zones** -- Drag any window to a screen edge or corner. A translucent overlay preview shows where the window will land. Release to snap. Edge sensitivity scales automatically for Retina and non-Retina displays.
 - **Keyboard Shortcuts** -- 14 default hotkeys (Ctrl+Option+Arrow keys, U/I/J/K for quarters, D/F/G for thirds, Return for maximize, C for center, T for auto-tile). Fully customizable in Settings.
-- **Smart Auto-Tile** -- One hotkey (Ctrl+Opt+T) to instantly arrange all visible windows into the best layout for the current count: side-by-side for 2, master+stack for 3, grid for 4+.
+- **Smart Auto-Tile** -- One hotkey (Ctrl+Opt+T) to instantly arrange all visible windows into the best layout for the current count: side-by-side for 2, master+stack for 3, grid for 4+. Each monitor tiles its own windows independently.
 - **Custom Snap Zones** -- Define your own layouts beyond halves and thirds. Use the visual 12x12 grid editor to create precise zones like 70/30 splits or narrow side panels.
 - **Menu Bar Grid Picker** -- Click any zone in the popover grid to snap the focused window without memorizing shortcuts.
 - **Launch at Login** -- Optional background launch via Settings.
