@@ -33,6 +33,10 @@
 
 ---
 
+> [!NOTE]
+> **This repository is the Snatch community hub** — translations, issue tracking, and releases. Snatch is a free, closed-source macOS app; the source code is not published here. **[Download Snatch from Releases](https://github.com/beyondthecode-bc/Snatch/releases/latest).**
+
+
 ## Screenshots
 
 <p align="center">
