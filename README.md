@@ -37,6 +37,17 @@
 > **This repository is the Snatch community hub** — translations, issue tracking, and releases. Snatch is a free, closed-source macOS app; the source code is not published here. **[Download Snatch from Releases](https://github.com/beyondthecode-bc/Snatch/releases/latest).**
 
 
+
+<!-- os27-compatibility:start -->
+## OS 27 compatibility
+
+Updated 2026-09-16.
+
+- **GitHub — Version 1.0.1:** OS 27 compatibility checked with an Xcode 27 build and automated regression tests for custom grids and shortcuts. The download requires Apple Silicon.
+
+Checks use Xcode 27 builds and automated tests where available. Full testing on physical devices has not been completed. Minimum OS requirements are unchanged.
+<!-- os27-compatibility:end -->
+
 ## Screenshots
 
 <p align="center">
@@ -47,11 +58,23 @@
 
 ---
 
-## Download
+## Update or install
 
-Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/Snatch/releases/latest). Unzip, move `Snatch.app` to Applications, and launch.
+1. **Existing users — update in app:** Open the menu-bar panel, click its **ⓘ About** button, then select **Check for Updates > Install Now**.
+2. **New installation:** download [**`Snatch-v1.0.1.zip`**](https://github.com/beyondthecode-bc/Snatch/releases/download/v1.0.1/Snatch-v1.0.1.zip), extract it, and move **`Snatch.app`** to **Applications**.
+3. **Manual fallback:** if the in-app updater is unavailable or fails, quit the app, extract the same ZIP, and replace the existing app in Applications.
 
-The app includes a built-in update checker -- open **About** and click **Check Now** to see if a newer version is available.
+## Verify the download
+
+- Signed with Developer ID, hardened runtime and a secure timestamp. Apple notarization accepted; ticket stapled; Gatekeeper verification passed.
+- VirusTotal: **0 malicious, 0 suspicious**; 66 undetected, 1 failure, 7 type-unsupported. [View the exact-file report](https://www.virustotal.com/gui/file/39517d6428b71f5f406ace1094920026e8c9bc3193e6e0eabecb647b10ad8545).
+- Asset: **`Snatch-v1.0.1.zip`** (version **1.0.1**, build **2**). The sibling **`Snatch-v1.0.1.zip.sha256`** contains the same checksum.
+
+**SHA-256**
+
+```text
+39517d6428b71f5f406ace1094920026e8c9bc3193e6e0eabecb647b10ad8545
+```
 
 ## Features
 
