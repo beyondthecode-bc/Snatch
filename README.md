@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=flat-square&logo=apple" alt="Platform">
-  <img src="https://img.shields.io/badge/chip-Apple%20Silicon%20%2B%20Intel-orange?style=flat-square&logo=apple" alt="Apple Silicon + Intel">
+  <img src="https://img.shields.io/badge/chip-Apple%20Silicon-orange?style=flat-square&logo=apple" alt="Apple Silicon">
   <img src="https://img.shields.io/badge/swift-6.0-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-native-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
   <img src="https://img.shields.io/badge/languages-8-green?style=flat-square&logo=translate" alt="Languages">
@@ -69,7 +69,7 @@ The app includes a built-in update checker -- open **About** and click **Check N
 | | Requirement |
 |---|---|
 | **OS** | macOS 14.0 (Sonoma) or later |
-| **Chip** | Any Mac (Apple Silicon or Intel) |
+| **Chip** | Apple Silicon (M1 or later) for the current GitHub release |
 
 ## Getting Started
 
